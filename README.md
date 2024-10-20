@@ -29,3 +29,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
 
 
+### Socials
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/lorenzoteixido/)  
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?logo=discord&logoColor=white&style=flat-square)](https://discord.com/users/267011081380036610)
