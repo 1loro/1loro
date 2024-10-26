@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Lorenzo</h1>
 <p align="center" ><img src=https://i.postimg.cc/d0gh93Tq/9ee06d6934a7524bb6d393d78e835fe4.gif/></p>
 
 - 👀 I'm interested in software development, web technologies, and solving complex problems through programming.  
