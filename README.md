@@ -1,4 +1,5 @@
-👋 Hi, I'm Lorenzo
+<p align="center" ><img src=https://i.postimg.cc/d0gh93Tq/9ee06d6934a7524bb6d393d78e835fe4.gif/></p>
+
 - 👀 I'm interested in software development, web technologies, and solving complex problems through programming.  
 - 🌱 I’m currently studying Computer Engineering, focusing on learning more about programming, web development, and databases.  
 - 💞️ I’m looking to collaborate on exciting projects that push my skills further.  
