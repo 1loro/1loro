@@ -23,7 +23,7 @@
 
 
 #### Databases  
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white&style=flat-square)![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white&style=flat-square) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 
 
 #### Other Tools 
