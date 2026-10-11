@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lorenzo</h1>
-<p align="center" ><img src=https://i.pinimg.com/originals/16/b0/1e/16b01e1756c7732da6086cbcfeb3407f.gif></p>
+<p align="center" ><img src=<iframe src="https://giphy.com/embed/I6wUi5eTdUCWI" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sasuke-I6wUi5eTdUCWI">via GIPHY</a></p>></p>
 
 - 👀 I'm interested in software development, web technologies, and solving complex problems through programming.  
 - 🌱 I’m currently studying Computer Engineering, focusing on learning more about programming, web development, and databases.  
