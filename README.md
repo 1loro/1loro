@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lorenzo</h1>
-<p align="center" ><img src=https://ar.pinterest.com/pin/1011691503789915658/></p>
+<p align="center" ><img src=https://i.pinimg.com/originals/16/b0/1e/16b01e1756c7732da6086cbcfeb3407f.gif></p>
 
 - 👀 I'm interested in software development, web technologies, and solving complex problems through programming.  
 - 🌱 I’m currently studying Computer Engineering, focusing on learning more about programming, web development, and databases.  
