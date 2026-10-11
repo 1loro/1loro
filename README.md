@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lorenzo</h1>
 <p align="center">
-  <img src="https://i.giphy.com/I6wUi5eTdUCWI.gif" width="480" alt="Sasuke Uchiha">
+  <img src="https://media.giphy.com/media/I6wUi5eTdUCWI/giphy.gif" width="480" alt="Sasuke Uchiha">
 </p>
 - 👀 I'm interested in software development, web technologies, and solving complex problems through programming.  
 - 🌱 I’m currently studying Computer Engineering, focusing on learning more about programming, web development, and databases.  
